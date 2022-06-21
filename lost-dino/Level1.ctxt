@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\n\ First\ level\ of\ the\ game.\ Contains\ a\ line\ of\ skeletons\ that\ take\ turns\ shooting.\n\ Player\ only\ has\ a\ spear\ and\ must\ dodge\ the\ enemy\ projectiles\ and\ kill\ a\ skeleton\ to\ proceed.\n\ \n\ @author\ Patrick\ Hu\ \n\ @version\ June\ 2022\n
+comment1.params=
+comment1.target=Level1()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ levelPass()
+numComments=4

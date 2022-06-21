@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Instructions
+comment0.text=\n\ Instructions\ page.\ The\ next\ world\ after\ GameStartWorld.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ June\ 2022\n
+comment1.params=
+comment1.target=Instructions()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ stopped()
+numComments=4

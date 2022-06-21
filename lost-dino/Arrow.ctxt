@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Arrow
+comment0.text=\n\ Subclass\ of\ Projectile\ that\ deals\ with\ the\ bow's\ arrow.\ Arrows\ follow\ a\ straight\ line\ and\ travel\n\ at\ a\ constant\ speed.\ They\ deal\ 1\ damage\ to\ enemies.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ June\ 2022\n
+comment1.params=
+comment1.target=Arrow()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkEnemyHit()
+comment3.text=\n\ Checks\ if\ arrow\ has\ come\ into\ contact\ with\ an\ enemy.\n
+comment4.params=
+comment4.target=void\ deccelerate()
+comment4.text=\n\ Deccelerates\ the\ arrow.\ Not\ used\ in\ final\ version.\n
+numComments=5

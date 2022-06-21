@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EnemyProjectile
+comment0.text=\n\ Subclass\ of\ Projectile\ that\ only\ deals\ with\ enemies'\ projectiles.\n\ \n\ @\ Patrick\ Hu\n\ @version\ June\ 2022\n
+comment1.params=speed\ scale
+comment1.target=EnemyProjectile(double,\ double)
+comment1.text=\n\ Sets\ the\ speed\ and\ scale\ of\ the\ projectile\n\ \n\ @param\ speed\ \ \ \ \ speed\ of\ projectile\n\ @param\ scale\ \ \ \ \ amount\ to\ scale\ the\ projectile\ by\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

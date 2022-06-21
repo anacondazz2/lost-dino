@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level5
+comment0.text=\n\ 5th\ and\ last\ level\ of\ the\ game.\ Contains\ the\ final\ boss\ -\ "Big\ Demon"\n\ The\ player's\ friend\ is\ trapped\ inside\ walls\ that\ only\ disappear\ once\ big\ demon\ has\n\ been\ defeated.\ \n\ See\ BigDemon.java\ for\ a\ description\ on\ its\ attacks\ and\ movement.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ June\ 2022\n
+comment1.params=
+comment1.target=Level5()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fadeWalls()
+comment3.text=\n\ Makes\ the\ walls\ fade\ away.\ Gradually\ lowers\ their\ transparency.\n
+comment4.params=
+comment4.target=void\ levelPass()
+numComments=5

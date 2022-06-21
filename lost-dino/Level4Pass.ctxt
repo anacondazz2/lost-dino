@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Level4Pass
+comment0.text=\n\ Level\ 4\ complete\ screen.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ June\ 2022\n
+comment1.params=
+comment1.target=Level4Pass()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fadeVolume()
+comment3.text=\n\ Slowly\ lowers\ the\ volume\ of\ the\ main\ soundtrack.\n
+numComments=4

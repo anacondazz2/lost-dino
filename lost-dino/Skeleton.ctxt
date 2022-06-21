@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Skeleton
+comment0.text=\n\ Skeletons\ are\ immobile\ enemies\ that\ only\ shoot\ balls\ in\ a\ single\ direction.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ June\ 2022\n
+comment1.params=id\ health\ speed\ scale\ shotDirection\ fireRate\ autoFire
+comment1.target=Skeleton(int,\ int,\ double,\ double,\ java.lang.String,\ int,\ boolean)
+comment1.text=\n\ Constrcuts\ a\ skeleton\ with\ its\ id,\ health,\ speed,\ scale,\ shotDirection,\ fireRate,\ and\ whether\n\ or\ not\ it\ should\ automatically\ fire.\n\ \n\ @param\ id\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ skeleton's\ id\n\ @param\ health\ \ \ \ \ \ \ \ \ \ \ \ the\ skeleton's\ health\n\ @param\ speed\ \ \ \ \ \ \ \ \ \ \ \ \ the\ skeleton's\ speed.\ Always\ 0.\n\ @param\ scale\ \ \ \ \ \ \ \ \ \ \ \ \ amount\ to\ scale\ the\ skeleton\ by\n\ @param\ shotDirection\ \ \ \ \ the\ direction\ that\ the\ skeleton\ should\ be\ firing\ in\n\ @param\ fireRate\ \ \ \ \ \ \ \ \ \ the\ skeleton's\ rate\ of\ fire\n\ @param\ autoFire\ \ \ \ \ \ \ \ \ \ whether\ or\ not\ the\ the\ skeleton\ should\ automatically\ fire\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fire()
+numComments=4

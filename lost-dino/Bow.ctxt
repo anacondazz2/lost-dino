@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bow
+comment0.text=\n\ The\ bow\ that\ the\ player\ wields.\n\ \n\ @\ Patrick\ Hu\n\ @version\ June\ 2022\n
+comment1.params=
+comment1.target=Bow()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fire()
+comment3.text=\n\ Fires\ an\ arrow\ in\ the\ direction\ of\ the\ cursor.\n
+comment4.params=
+comment4.target=void\ faceCursor()
+comment4.text=\n\ Makes\ the\ bow\ face\ the\ cursor.\n
+numComments=5

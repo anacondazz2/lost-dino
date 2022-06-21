@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Imp
+comment0.text=\n\ Imps\ are\ tiny\ enemies\ that\ have\ little\ hp\ and\ constantly\ run\ toward\ the\ player.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ June\ 2022\n
+comment1.params=id\ health\ speed\ scale
+comment1.target=Imp(int,\ int,\ double,\ double)
+comment1.text=\n\ Constructs\ an\ imp.\n\ \n\ @param\ id\ \ \ \ \ \ \ \ id\ of\ the\ imp\n\ @param\ health\ \ \ \ imp's\ health\n\ @param\ speed\ \ \ \ \ imp's\ speed\n\ @param\ scale\ \ \ \ \ amount\ to\ scale\ the\ imp\ by\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\n\ Constantly\ runs\ toward\ the\ player\n
+numComments=4
