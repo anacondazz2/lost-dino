@@ -12,6 +12,7 @@ public class GameStartWorld extends World
     private double scale = 0.7;
     Image title;
     Image startButton;
+    Image madeByText;
     
     public GameStartWorld() {
         super(800, 600, 1);
@@ -22,6 +23,8 @@ public class GameStartWorld extends World
         addObject(title, 220, 115);
         startButton = new Image("./images/vecna/start-game.png", scale);
         addObject(startButton, 151, 260);
+        madeByText = new Image("./images/vecna/made-by-text.png", 0.7);
+        addObject(madeByText, 684, 573);
         
         // whenever user goes back to GameStartWorld their health should be reset
         Player.health = 3;
