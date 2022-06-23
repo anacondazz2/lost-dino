@@ -34,6 +34,7 @@ public class Player extends SmoothMover
     
     public Player() {        
         // initialize sprites
+        
         for (int i = 0; i < idle_size; i++) {
             idleFacingRight[i] = new GreenfootImage("./sprites/player/lizard_m_idle_anim_f" + i + ".png");
             idleFacingRight[i].scale((int)(idleFacingRight[i].getWidth() * scale), (int)(idleFacingRight[i].getHeight() * scale));
@@ -96,12 +97,13 @@ public class Player extends SmoothMover
             facingRight = true;
             dx += speed;
             runAnimate();
-        }if (!Greenfoot.isKeyDown("w") && !Greenfoot.isKeyDown("a") && !Greenfoot.isKeyDown("s") && !Greenfoot.isKeyDown("d") && !Greenfoot.isKeyDown("space")) {
+        }
+        if (!Greenfoot.isKeyDown("w") && !Greenfoot.isKeyDown("a") && !Greenfoot.isKeyDown("s") && !Greenfoot.isKeyDown("d") && !Greenfoot.isKeyDown("space")) {
             idleAnimate();
         }
-        setLocation(getX() + dx, getY());
-
+        
         // check wall collision
+        setLocation(getX() + dx, getY());
         if (getOneIntersectingObject(Wall.class) != null)
             setLocation(getX() - dx, getY());
         setLocation(getX(), getY() + dy);
